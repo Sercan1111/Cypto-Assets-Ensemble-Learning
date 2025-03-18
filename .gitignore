@@ -1,0 +1,26 @@
+# Python Sanal Ortam
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# İstemediğin diğer geçici dosyalar
+.DS_Store
+*.log
+*.bak
+
+
+# Büyük veri dosyaları
+*.csv
+*.xlsx
+*.json
+*.zip
+*.tar.gz
+data/
+datasets/
